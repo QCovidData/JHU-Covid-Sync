@@ -1,3 +1,4 @@
 OBJECTID,Province_State,Country_Region,Last_Update,Lat,Long_,Confirmed,Recovered,Deaths,Active,Admin2,FIPS,Combined_Key,Incident_Rate,People_Tested,People_Hospitalized,UID,ISO3
 1,South Carolina,US,1587933051000,34.22333378,-82.46170658,24,0,0,24,Abbeville,45001,"Abbeville, South Carolina, US",97.8513474945978,,,84045001,USA
 2,Louisiana,US,1587933051000,30.2950649,-92.41419698,130,0,7,123,Acadia,22001,"Acadia, Louisiana, US",209.525344508018,,,84022001,USA
+3,Virginia,US,1587933051000,37.76707161,-75.63234615,187,0,3,184,Accomack,51001,"Accomack, Virginia, US",578.660725337294,,,84051001,USA
